@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PatientData</string>
+    <array name="sexe">
+        <item>--Choisir--</item>
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </array>
+</resources>
